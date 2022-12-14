@@ -5,3 +5,5 @@ Includes a UI and multiple preselected games to spoof.
 SOURCE CODE FOR SALE AT $110, reverse engineered by me.
 
 Discord: Frantic#0009
+
+BOOKMARK THIS PAGE, I AM GOING TO UPLOAD TO GITHUB TODAY.
